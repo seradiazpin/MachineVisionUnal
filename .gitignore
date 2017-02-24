@@ -3,3 +3,4 @@ data_example
 *.swp
 *log
 .idea
+.DS_Store
